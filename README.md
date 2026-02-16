@@ -25,8 +25,8 @@ Nivara Playground serves three purposes:
 
 | Project | Sector | Live Demo | Status |
 |---------|--------|-----------|--------|
-| **LobbyAI** | Legal Tech | [lobbyai.netlify.app](https://lobbyai.netlify.app) | Completed |
-| **Nina®** | AI Planning | [check.nivara.io](https://check.nivara.io) | Completed |
+| **Nivara Lobby** | Legal Tech | [lobbyai.netlify.app](https://lobbyai.netlify.app) | Completed |
+| **Nivara Navigator** | AI Planning | [check.nivara.io](https://check.nivara.io) | Completed |
 | **OTB Intelligence Platform** | Luxury Retail | [otb.nivara.io](https://otb.nivara.io) | Completed |
 
 ---
@@ -43,7 +43,7 @@ Nivara Playground serves three purposes:
 
 - **AI-powered project assistant** — Push-panel chat drawer on every project detail page, powered by GPT-4.1 Mini
 - **Context-aware** — System prompt includes project description, architecture, features, tech stack, and key highlights for accurate, grounded answers
-- **Suggested questions** — Pre-built conversation starters tailored to each project (e.g. "What does LobbyAI do in simple terms?")
+- **Suggested questions** — Pre-built conversation starters tailored to each project (e.g. "What does Nivara Lobby do in simple terms?")
 - **Designed for prospects** — Non-technical stakeholders can understand what a POC does, its value proposition, and competitive advantages through natural language
 
 ### AI Playground (Admin Only)
