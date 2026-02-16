@@ -27,7 +27,7 @@ Nivara Playground serves three purposes:
 |---------|--------|-----------|--------|
 | **Nivara Lobby** | Legal Tech | [lobbyai.netlify.app](https://lobbyai.netlify.app) | Completed |
 | **Nivara Navigator** | AI Planning | [check.nivara.io](https://check.nivara.io) | Completed |
-| **OTB Intelligence Platform** | Luxury Retail | [otb.nivara.io](https://otb.nivara.io) | Completed |
+| **Nivara OTB** | Luxury Retail | [otb.nivara.io](https://otb.nivara.io) | Completed |
 
 ---
 
